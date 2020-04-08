@@ -33,6 +33,12 @@ public class Square extends Shape {
 	{
 		this.side = side;
 	}
+
+	@Override
+	public void DoSomething() {
+		// TODO Auto-generated method stub
+		
+	}
 	
 	
 }

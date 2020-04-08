@@ -1,6 +1,6 @@
 package com.exercise12oop.model;
 
-public class Shape implements Shapeable 
+public abstract class Shape implements Shapeable, Lineable
 {
 
 	@Override
